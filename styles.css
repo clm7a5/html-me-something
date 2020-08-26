@@ -13,17 +13,17 @@ body {
 }
 
 .one  {
-    margin-left: 200px;
+    margin-right: 200px;
     text-align: justify;
-}
+ }
 
 .two  {
-    margin-left: 200px;
+    margin-right: 200px;
     text-align: justify;
 }
 
 .three  {
-    margin-left: 200px;
+    margin-right: 200px;
     text-align: justify;
 }
 
@@ -37,8 +37,7 @@ h1 {
 
 h2  {
     color: black;
-    text-align: center;
-
+    font-style: italic
 }
 
 #main  {
@@ -51,3 +50,16 @@ p  {
     
 }
 
+
+footer {
+    text-align: center;
+    padding: 6px;
+    color: blue;
+    font-weight: bold
+}
+
+article {
+    text-indent: 22px;
+    color: red;
+    line-height:-1;
+}
