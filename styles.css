@@ -12,18 +12,15 @@ body {
     margin: 50px
 }
 
-.one  {
-    margin-right: 200px;
+div.one  {
     text-align: justify;
  }
 
-.two  {
-    margin-right: 200px;
+div.two  {
     text-align: justify;
 }
 
-.three  {
-    margin-right: 200px;
+div.three  {
     text-align: justify;
 }
 
@@ -52,7 +49,7 @@ p  {
 
 
 footer {
-    text-align: center;
+    text-align: right;
     padding: 6px;
     color: blue;
     font-weight: bold
